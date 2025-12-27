@@ -1,0 +1,194 @@
+*{
+    padding: 0px;
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+.header{
+    display: flex;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    gap: 20px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    background-color: rgb(53, 66, 74);
+    color: rgb(255, 255, 255);
+    background-origin: padding-box;
+    border-bottom-color: rgb(232, 73, 29) ;
+    border-bottom-style: solid;
+    border-bottom-width: 4px;
+
+}
+
+.B1{
+    cursor: pointer;
+    color: rgb(232, 73, 29);
+}
+
+.highlight{
+    color: rgb(232, 73, 29);
+    
+    
+}
+
+.subheader{
+    padding-left: 80px;
+    padding-bottom: 20px;
+    font-size: x-large;
+}
+
+.nav11{
+    display: flex;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
+    gap: 40px;
+    padding-left: 600px;
+    color: white;
+}
+
+.li a {
+    color: white;
+}
+
+.container{
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-origin: padding-box;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(./laptop\ image.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 480px;
+    color: white;
+    padding-top: 60px;
+}
+
+.first{
+    text-align: center;
+    padding-top: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+.second{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-top: 40px;
+}
+
+.container2{
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(53, 66, 74);
+    color: white;
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 100px;
+    text-align: center;
+
+}
+
+.form{
+    padding-left: 400px;
+    border-top-color: rgb(53, 66, 74);
+    border-bottom-color: rgb(53, 66, 74);
+    border-left-color: rgb(53, 66, 74);
+    border-right-color: rgb(53, 66, 74);
+    color: white;
+    border-image-repeat: repeat;
+}
+
+.button1{
+    color: white;
+    background-color: rgb(232, 73, 29);
+    background-clip: border-box;
+    background-origin: padding-box;
+    border-top-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+    border-left-color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    cursor: default;
+    border-image-repeat: stretch;
+}
+
+.firstlogo{
+    padding-left: 10px;
+    text-align: left;
+     box-sizing: border-box;
+     background-clip: border-box;
+     background-origin: padding-box;
+     display: flex;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+.image1{
+    width: 100px;
+    height: 100px;
+    padding-bottom: 20px;
+}
+
+.third{
+    padding-left: 100px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.image3{
+    width: 100px;
+    height: 100px;
+    padding-bottom: 20px;
+}
+
+.hh3{
+    padding-bottom: 20px;
+}
+
+.image2{
+     width: 100px;
+    height: 100px;
+    padding-bottom: 20px;
+}
+
+.secondd{
+    padding-left: 100px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.hh2{
+    padding-bottom: 20px;
+}
+
+.firstt{
+    padding-left: 100px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.hh1{
+   padding-bottom: 20px; 
+}
+
+.foot{
+    background-color: rgb(232, 73, 29);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    height: 80px;
+}
+
+.last{
+    padding-top: 38px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.para1{
+    padding-bottom: 40px;
+}
+

@@ -1,0 +1,209 @@
+*{
+    padding: 0px;
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+.header{
+    display: flex;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    gap: 20px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    background-color: rgb(53, 66, 74);
+    color: rgb(255, 255, 255);
+    background-origin: padding-box;
+    background-clip: border-box;
+    border-bottom-color: rgb(232, 73, 29) ;
+    border-bottom-style: solid;
+    border-bottom-width: 4px;
+
+}
+
+.B1{
+    cursor: pointer;
+    color: rgb(232, 73, 29);
+}
+
+.highlight{
+    color: rgb(232, 73, 29);
+    
+    
+}
+
+.subheader{
+    padding-left: 80px;
+    padding-bottom: 20px;
+    font-size: x-large;
+}
+
+.nav11{
+    display: flex;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    gap: 40px;
+    padding-left: 600px
+}
+
+.container2{
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(53, 66, 74);
+    color: white;
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 100px;
+    text-align: center;
+
+}
+
+.form{
+    padding-left: 400px;
+    border-top-color: rgb(53, 66, 74);
+    border-bottom-color: rgb(53, 66, 74);
+    border-left-color: rgb(53, 66, 74);
+    border-right-color: rgb(53, 66, 74);
+    color: white;
+    border-image-repeat: repeat;
+}
+
+.button1{
+    color: white;
+    background-color: rgb(232, 73, 29);
+    background-clip: border-box;
+    background-origin: padding-box;
+    border-top-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+    border-left-color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    cursor: default;
+    border-image-repeat: stretch;
+}
+
+.main{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+
+.mainheader{
+    padding-bottom: 30px;
+    font-size: x-large;
+}
+
+.order{
+    list-style-type: none;
+}
+
+.firsth{
+    padding-bottom: 20px;
+    margin-right: 180px;
+    padding-right: 30px;
+    padding-left: 30px;
+    background-color: rgb(230, 230, 230);
+    background-origin: border-box;
+    border-bottom-color: rgb(204, 204, 204);
+    border-right-color: rgb(204, 204, 204);
+    border-left-color: rgb(204, 204, 204);
+    border-top-color: rgb(204, 204, 204);
+}
+
+.firsth1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.paragraph1{
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.secondh{
+    padding-bottom: 20px;
+    margin-right: 400px;
+    padding-right: 40px;
+     padding-left: 30px;
+    background-color: rgb(230, 230, 230);
+    background-origin: border-box;
+    border-bottom-color: rgb(204, 204, 204);
+    border-right-color: rgb(204, 204, 204);
+    border-left-color: rgb(204, 204, 204);
+    border-top-color: rgb(204, 204, 204);
+    margin-top: 10px;
+}
+
+.secondh2{
+     padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.paragraph2{
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.thirdh{
+     padding-bottom: 20px;
+    margin-right: 400px;
+    padding-right: 40px;
+     padding-left: 30px;
+    background-color: rgb(230, 230, 230);
+    background-origin: border-box;
+    border-bottom-color: rgb(204, 204, 204);
+    border-right-color: rgb(204, 204, 204);
+    border-left-color: rgb(204, 204, 204);
+    border-top-color: rgb(204, 204, 204);
+    margin-top: 10px;
+}
+
+.thirdh3{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.paragraph3{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.formm{
+    display: flex;
+}
+
+.general{
+    display: flex;
+}
+
+.nott{
+    background-color: rgb(53, 66, 74);
+    margin-right: 110px;
+    color: white;
+
+}
+
+.get{
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.foot{
+    background-color: rgb(232, 73, 29);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    height: 80px;
+}
+
+.last{
+    padding-top: 38px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-bottom: 15px;
+}
